@@ -1,0 +1,160 @@
+Mar 10 00:13:27 web01 sshd[2035]: Accepted password for deploy from 192.0.2.10 port 51406 ssh2
+Mar 10 00:13:28 web01 sshd[2035]: pam_unix(sshd:session): session opened for user deploy by (uid=0)
+Mar 10 00:39:25 web01 sshd[2769]: Accepted password for kalixte from 198.51.100.7 port 51956 ssh2
+Mar 10 00:39:26 web01 sshd[2769]: pam_unix(sshd:session): session opened for user kalixte by (uid=0)
+Mar 10 00:51:25 web01 sshd[1036]: Accepted password for deploy from 198.51.100.7 port 51572 ssh2
+Mar 10 00:51:26 web01 sshd[1036]: pam_unix(sshd:session): session opened for user deploy by (uid=0)
+Mar 10 00:58:38 web01 sshd[2121]: Accepted password for deploy from 192.0.2.10 port 42205 ssh2
+Mar 10 00:58:39 web01 sshd[2121]: pam_unix(sshd:session): session opened for user deploy by (uid=0)
+Mar 10 01:16:07 web01 sshd[2961]: Accepted password for deploy from 192.0.2.10 port 45610 ssh2
+Mar 10 01:16:08 web01 sshd[2961]: pam_unix(sshd:session): session opened for user deploy by (uid=0)
+Mar 10 01:19:59 web01 sshd[2199]: Accepted password for deploy from 198.51.100.7 port 45429 ssh2
+Mar 10 01:20:00 web01 sshd[2199]: pam_unix(sshd:session): session opened for user deploy by (uid=0)
+Mar 10 01:21:12 web01 sshd[1403]: Failed password for kalixte from 192.0.2.25 port 46441 ssh2
+Mar 10 01:21:33 web01 sshd[2985]: Failed password for kalixte from 192.0.2.10 port 53351 ssh2
+Mar 10 01:23:57 web01 sshd[2269]: Failed password for kalixte from 198.51.100.7 port 40561 ssh2
+Mar 10 01:39:52 web01 sshd[2300]: Accepted password for deploy from 192.0.2.25 port 51791 ssh2
+Mar 10 01:39:53 web01 sshd[2300]: pam_unix(sshd:session): session opened for user deploy by (uid=0)
+Mar 10 01:41:54 web01 sshd[2414]: Accepted password for deploy from 198.51.100.7 port 59811 ssh2
+Mar 10 01:41:55 web01 sshd[2414]: pam_unix(sshd:session): session opened for user deploy by (uid=0)
+Mar 10 02:00:00 web01 sshd[3463]: Did not receive identification string from 203.0.113.66
+Mar 10 02:00:12 web01 sshd[3767]: Connection closed by 203.0.113.66 port 58634 [preauth]
+Mar 10 02:00:24 web01 sshd[3321]: Did not receive identification string from 203.0.113.66
+Mar 10 02:00:36 web01 sshd[3012]: Connection closed by 203.0.113.66 port 50931 [preauth]
+Mar 10 02:02:01 web01 sshd[5125]: Invalid user pi from 203.0.113.66 port 47497
+Mar 10 02:02:01 web01 sshd[5125]: Failed password for invalid user pi from 203.0.113.66 port 47497 ssh2
+Mar 10 02:02:05 web01 sshd[5737]: Invalid user jenkins from 203.0.113.66 port 50069
+Mar 10 02:02:05 web01 sshd[5737]: Failed password for invalid user jenkins from 203.0.113.66 port 50069 ssh2
+Mar 10 02:02:10 web01 sshd[5083]: Invalid user pi from 203.0.113.66 port 45924
+Mar 10 02:02:10 web01 sshd[5083]: Failed password for invalid user pi from 203.0.113.66 port 45924 ssh2
+Mar 10 02:02:17 web01 sshd[5587]: Invalid user jenkins from 203.0.113.66 port 46061
+Mar 10 02:02:17 web01 sshd[5587]: Failed password for invalid user jenkins from 203.0.113.66 port 46061 ssh2
+Mar 10 02:02:22 web01 sshd[5441]: Invalid user root from 203.0.113.66 port 56209
+Mar 10 02:02:22 web01 sshd[5441]: Failed password for invalid user root from 203.0.113.66 port 56209 ssh2
+Mar 10 02:02:27 web01 sshd[5993]: Invalid user pi from 203.0.113.66 port 54915
+Mar 10 02:02:27 web01 sshd[5993]: Failed password for invalid user pi from 203.0.113.66 port 54915 ssh2
+Mar 10 02:02:30 web01 sshd[5110]: Invalid user jenkins from 203.0.113.66 port 55977
+Mar 10 02:02:30 web01 sshd[5110]: Failed password for invalid user jenkins from 203.0.113.66 port 55977 ssh2
+Mar 10 02:02:38 web01 sshd[5635]: Invalid user git from 203.0.113.66 port 58296
+Mar 10 02:02:38 web01 sshd[5635]: Failed password for invalid user git from 203.0.113.66 port 58296 ssh2
+Mar 10 02:02:43 web01 sshd[4536]: Failed password for admin from 203.0.113.66 port 48430 ssh2
+Mar 10 02:02:46 web01 sshd[5850]: Invalid user oracle from 203.0.113.66 port 41930
+Mar 10 02:02:46 web01 sshd[5850]: Failed password for invalid user oracle from 203.0.113.66 port 41930 ssh2
+Mar 10 02:02:51 web01 sshd[4392]: Invalid user git from 203.0.113.66 port 42569
+Mar 10 02:02:51 web01 sshd[4392]: Failed password for invalid user git from 203.0.113.66 port 42569 ssh2
+Mar 10 02:02:57 web01 sshd[5797]: Invalid user jenkins from 203.0.113.66 port 48291
+Mar 10 02:02:57 web01 sshd[5797]: Failed password for invalid user jenkins from 203.0.113.66 port 48291 ssh2
+Mar 10 02:03:01 web01 sshd[4874]: Invalid user jenkins from 203.0.113.66 port 44913
+Mar 10 02:03:01 web01 sshd[4874]: Failed password for invalid user jenkins from 203.0.113.66 port 44913 ssh2
+Mar 10 02:03:07 web01 sshd[4880]: Invalid user pi from 203.0.113.66 port 41404
+Mar 10 02:03:07 web01 sshd[4880]: Failed password for invalid user pi from 203.0.113.66 port 41404 ssh2
+Mar 10 02:03:13 web01 sshd[5298]: Invalid user oracle from 203.0.113.66 port 41833
+Mar 10 02:03:13 web01 sshd[5298]: Failed password for invalid user oracle from 203.0.113.66 port 41833 ssh2
+Mar 10 02:03:18 web01 sshd[4140]: Invalid user git from 203.0.113.66 port 52466
+Mar 10 02:03:18 web01 sshd[4140]: Failed password for invalid user git from 203.0.113.66 port 52466 ssh2
+Mar 10 02:03:22 web01 sshd[4539]: Invalid user git from 203.0.113.66 port 59692
+Mar 10 02:03:22 web01 sshd[4539]: Failed password for invalid user git from 203.0.113.66 port 59692 ssh2
+Mar 10 02:03:29 web01 sshd[4278]: Invalid user postgres from 203.0.113.66 port 46275
+Mar 10 02:03:29 web01 sshd[4278]: Failed password for invalid user postgres from 203.0.113.66 port 46275 ssh2
+Mar 10 02:03:33 web01 sshd[5132]: Invalid user ftpuser from 203.0.113.66 port 54076
+Mar 10 02:03:33 web01 sshd[5132]: Failed password for invalid user ftpuser from 203.0.113.66 port 54076 ssh2
+Mar 10 02:03:38 web01 sshd[5456]: Invalid user oracle from 203.0.113.66 port 47256
+Mar 10 02:03:38 web01 sshd[5456]: Failed password for invalid user oracle from 203.0.113.66 port 47256 ssh2
+Mar 10 02:03:43 web01 sshd[5642]: Invalid user ftpuser from 203.0.113.66 port 46374
+Mar 10 02:03:43 web01 sshd[5642]: Failed password for invalid user ftpuser from 203.0.113.66 port 46374 ssh2
+Mar 10 02:03:50 web01 sshd[5470]: Invalid user ftpuser from 203.0.113.66 port 45213
+Mar 10 02:03:50 web01 sshd[5470]: Failed password for invalid user ftpuser from 203.0.113.66 port 45213 ssh2
+Mar 10 02:03:54 web01 sshd[4080]: Invalid user pi from 203.0.113.66 port 50540
+Mar 10 02:03:54 web01 sshd[4080]: Failed password for invalid user pi from 203.0.113.66 port 50540 ssh2
+Mar 10 02:03:58 web01 sshd[4393]: Invalid user jenkins from 203.0.113.66 port 59659
+Mar 10 02:03:58 web01 sshd[4393]: Failed password for invalid user jenkins from 203.0.113.66 port 59659 ssh2
+Mar 10 02:04:05 web01 sshd[5563]: Invalid user ftpuser from 203.0.113.66 port 50057
+Mar 10 02:04:05 web01 sshd[5563]: Failed password for invalid user ftpuser from 203.0.113.66 port 50057 ssh2
+Mar 10 02:04:10 web01 sshd[5789]: Invalid user git from 203.0.113.66 port 53185
+Mar 10 02:04:10 web01 sshd[5789]: Failed password for invalid user git from 203.0.113.66 port 53185 ssh2
+Mar 10 02:04:14 web01 sshd[5826]: Invalid user postgres from 203.0.113.66 port 50003
+Mar 10 02:04:14 web01 sshd[5826]: Failed password for invalid user postgres from 203.0.113.66 port 50003 ssh2
+Mar 10 02:04:19 web01 sshd[5977]: Invalid user pi from 203.0.113.66 port 52420
+Mar 10 02:04:19 web01 sshd[5977]: Failed password for invalid user pi from 203.0.113.66 port 52420 ssh2
+Mar 10 02:04:26 web01 sshd[5277]: Invalid user ftpuser from 203.0.113.66 port 44720
+Mar 10 02:04:26 web01 sshd[5277]: Failed password for invalid user ftpuser from 203.0.113.66 port 44720 ssh2
+Mar 10 02:04:30 web01 sshd[5665]: Invalid user postgres from 203.0.113.66 port 52629
+Mar 10 02:04:30 web01 sshd[5665]: Failed password for invalid user postgres from 203.0.113.66 port 52629 ssh2
+Mar 10 02:04:36 web01 sshd[5421]: Invalid user test from 203.0.113.66 port 55098
+Mar 10 02:04:36 web01 sshd[5421]: Failed password for invalid user test from 203.0.113.66 port 55098 ssh2
+Mar 10 02:04:39 web01 sshd[5722]: Invalid user git from 203.0.113.66 port 42811
+Mar 10 02:04:39 web01 sshd[5722]: Failed password for invalid user git from 203.0.113.66 port 42811 ssh2
+Mar 10 02:04:45 web01 sshd[5678]: Invalid user mysql from 203.0.113.66 port 57274
+Mar 10 02:04:45 web01 sshd[5678]: Failed password for invalid user mysql from 203.0.113.66 port 57274 ssh2
+Mar 10 02:04:51 web01 sshd[4076]: Invalid user ftpuser from 203.0.113.66 port 44572
+Mar 10 02:04:51 web01 sshd[4076]: Failed password for invalid user ftpuser from 203.0.113.66 port 44572 ssh2
+Mar 10 02:04:56 web01 sshd[4400]: Invalid user pi from 203.0.113.66 port 52412
+Mar 10 02:04:56 web01 sshd[4400]: Failed password for invalid user pi from 203.0.113.66 port 52412 ssh2
+Mar 10 02:05:02 web01 sshd[5366]: Invalid user mysql from 203.0.113.66 port 43725
+Mar 10 02:05:02 web01 sshd[5366]: Failed password for invalid user mysql from 203.0.113.66 port 43725 ssh2
+Mar 10 02:05:05 web01 sshd[5006]: Invalid user ubuntu from 203.0.113.66 port 41712
+Mar 10 02:05:05 web01 sshd[5006]: Failed password for invalid user ubuntu from 203.0.113.66 port 41712 ssh2
+Mar 10 02:05:12 web01 sshd[5095]: Invalid user postgres from 203.0.113.66 port 51654
+Mar 10 02:05:12 web01 sshd[5095]: Failed password for invalid user postgres from 203.0.113.66 port 51654 ssh2
+Mar 10 02:05:16 web01 sshd[5985]: Invalid user ubuntu from 203.0.113.66 port 59004
+Mar 10 02:05:16 web01 sshd[5985]: Failed password for invalid user ubuntu from 203.0.113.66 port 59004 ssh2
+Mar 10 02:05:20 web01 sshd[5035]: Failed password for admin from 203.0.113.66 port 44998 ssh2
+Mar 10 02:05:27 web01 sshd[5312]: Failed password for admin from 203.0.113.66 port 41416 ssh2
+Mar 10 02:05:32 web01 sshd[4032]: Invalid user mysql from 203.0.113.66 port 49707
+Mar 10 02:05:32 web01 sshd[4032]: Failed password for invalid user mysql from 203.0.113.66 port 49707 ssh2
+Mar 10 02:05:36 web01 sshd[4164]: Invalid user oracle from 203.0.113.66 port 55266
+Mar 10 02:05:36 web01 sshd[4164]: Failed password for invalid user oracle from 203.0.113.66 port 55266 ssh2
+Mar 10 02:05:43 web01 sshd[5905]: Invalid user pi from 203.0.113.66 port 56020
+Mar 10 02:05:43 web01 sshd[5905]: Failed password for invalid user pi from 203.0.113.66 port 56020 ssh2
+Mar 10 02:05:47 web01 sshd[5619]: Invalid user root from 203.0.113.66 port 45743
+Mar 10 02:05:47 web01 sshd[5619]: Failed password for invalid user root from 203.0.113.66 port 45743 ssh2
+Mar 10 02:05:51 web01 sshd[5539]: Invalid user oracle from 203.0.113.66 port 47767
+Mar 10 02:05:51 web01 sshd[5539]: Failed password for invalid user oracle from 203.0.113.66 port 47767 ssh2
+Mar 10 02:05:56 web01 sshd[5455]: Failed password for admin from 203.0.113.66 port 41386 ssh2
+Mar 10 02:06:03 web01 sshd[5459]: Invalid user mysql from 203.0.113.66 port 55104
+Mar 10 02:06:03 web01 sshd[5459]: Failed password for invalid user mysql from 203.0.113.66 port 55104 ssh2
+Mar 10 02:06:07 web01 sshd[5540]: Failed password for admin from 203.0.113.66 port 50056 ssh2
+Mar 10 02:06:13 web01 sshd[4723]: Invalid user root from 203.0.113.66 port 53968
+Mar 10 02:06:13 web01 sshd[4723]: Failed password for invalid user root from 203.0.113.66 port 53968 ssh2
+Mar 10 02:06:19 web01 sshd[4166]: Invalid user test from 203.0.113.66 port 45567
+Mar 10 02:06:19 web01 sshd[4166]: Failed password for invalid user test from 203.0.113.66 port 45567 ssh2
+Mar 10 02:06:24 web01 sshd[5290]: Invalid user root from 203.0.113.66 port 49806
+Mar 10 02:06:24 web01 sshd[5290]: Failed password for invalid user root from 203.0.113.66 port 49806 ssh2
+Mar 10 02:06:29 web01 sshd[5401]: Invalid user postgres from 203.0.113.66 port 45142
+Mar 10 02:06:29 web01 sshd[5401]: Failed password for invalid user postgres from 203.0.113.66 port 45142 ssh2
+Mar 10 02:06:32 web01 sshd[4326]: Invalid user test from 203.0.113.66 port 42565
+Mar 10 02:06:32 web01 sshd[4326]: Failed password for invalid user test from 203.0.113.66 port 42565 ssh2
+Mar 10 02:06:39 web01 sshd[5182]: Failed password for admin from 203.0.113.66 port 53260 ssh2
+Mar 10 02:06:44 web01 sshd[4881]: Invalid user postgres from 203.0.113.66 port 41929
+Mar 10 02:06:44 web01 sshd[4881]: Failed password for invalid user postgres from 203.0.113.66 port 41929 ssh2
+Mar 10 02:06:48 web01 sshd[4672]: Failed password for admin from 203.0.113.66 port 53621 ssh2
+Mar 10 02:06:55 web01 sshd[5524]: Invalid user mysql from 203.0.113.66 port 55502
+Mar 10 02:06:55 web01 sshd[5524]: Failed password for invalid user mysql from 203.0.113.66 port 55502 ssh2
+Mar 10 02:06:58 web01 sshd[4138]: Invalid user test from 203.0.113.66 port 42417
+Mar 10 02:06:58 web01 sshd[4138]: Failed password for invalid user test from 203.0.113.66 port 42417 ssh2
+Mar 10 02:07:05 web01 sshd[4739]: Failed password for admin from 203.0.113.66 port 44461 ssh2
+Mar 10 02:07:09 web01 sshd[4056]: Invalid user pi from 203.0.113.66 port 52407
+Mar 10 02:07:09 web01 sshd[4056]: Failed password for invalid user pi from 203.0.113.66 port 52407 ssh2
+Mar 10 02:07:13 web01 sshd[4121]: Failed password for admin from 203.0.113.66 port 48013 ssh2
+Mar 10 02:07:20 web01 sshd[5730]: Invalid user jenkins from 203.0.113.66 port 43770
+Mar 10 02:07:20 web01 sshd[5730]: Failed password for invalid user jenkins from 203.0.113.66 port 43770 ssh2
+Mar 10 02:07:26 web01 sshd[5069]: Invalid user ftpuser from 203.0.113.66 port 49120
+Mar 10 02:07:26 web01 sshd[5069]: Failed password for invalid user ftpuser from 203.0.113.66 port 49120 ssh2
+Mar 10 02:07:31 web01 sshd[5412]: Invalid user ubuntu from 203.0.113.66 port 45109
+Mar 10 02:07:31 web01 sshd[5412]: Failed password for invalid user ubuntu from 203.0.113.66 port 45109 ssh2
+Mar 10 02:07:34 web01 sshd[4995]: Invalid user ftpuser from 203.0.113.66 port 49810
+Mar 10 02:07:34 web01 sshd[4995]: Failed password for invalid user ftpuser from 203.0.113.66 port 49810 ssh2
+Mar 10 02:07:40 web01 sshd[4026]: Invalid user root from 203.0.113.66 port 50564
+Mar 10 02:07:40 web01 sshd[4026]: Failed password for invalid user root from 203.0.113.66 port 50564 ssh2
+Mar 10 02:07:46 web01 sshd[5555]: Invalid user root from 203.0.113.66 port 42922
+Mar 10 02:07:46 web01 sshd[5555]: Failed password for invalid user root from 203.0.113.66 port 42922 ssh2
+Mar 10 02:07:49 web01 sshd[5276]: Invalid user git from 203.0.113.66 port 54288
+Mar 10 02:07:49 web01 sshd[5276]: Failed password for invalid user git from 203.0.113.66 port 54288 ssh2
+Mar 10 02:07:55 web01 sshd[4355]: Invalid user ftpuser from 203.0.113.66 port 55504
+Mar 10 02:07:55 web01 sshd[4355]: Failed password for invalid user ftpuser from 203.0.113.66 port 55504 ssh2
+Mar 10 02:08:14 web01 sshd[4024]: Accepted password for admin from 203.0.113.66 port 56277 ssh2
+Mar 10 02:08:15 web01 sshd[4024]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Mar 10 02:08:54 web01 sudo[6990]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/cat /etc/shadow
+Mar 10 02:09:17 web01 sudo[6690]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/sbin/useradd backup1
+Mar 10 02:09:20 web01 useradd[6873]: new user: name=backup1, UID=0, GID=0, home=/home/backup1, shell=/bin/bash
+Mar 10 02:09:24 web01 passwd[6188]: password changed for backup1
